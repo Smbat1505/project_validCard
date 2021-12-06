@@ -102,3 +102,4 @@ const idInvalidCardCompanies = invalidNambers => {
     console.log(companies);
 };
 idInvalidCardCompanies(invalidCards);
+// commit
